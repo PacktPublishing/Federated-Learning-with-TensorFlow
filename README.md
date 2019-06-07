@@ -1,5 +1,5 @@
-# Federated Learning in Tensorflow [Video]
-This is the code repository for [Federated Learning in Tensorflow [Video]](https://www.packtpub.com/big-data-and-business-intelligence/federated-learning-tensorflow-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+# Federated Learning in TensorFflow [Video]
+This is the code repository for [Federated Learning in TensorFlow [Video]](https://www.packtpub.com/big-data-and-business-intelligence/federated-learning-tensorflow-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 Federated learning is revolutionizing how machine learning models are trained. TensorFlow Federated is the first production-level federated learning platform that makes it easy to build mobile device learning-based applications. In this course, you’ll learn the basics of building Federated Learning models that can be gradually improved by decentralized data that comes from a variety of mobile devices while not violating the privacy of end users.
 
